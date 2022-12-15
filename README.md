@@ -1,4 +1,4 @@
-# Time-Series-Forecasting
+# Time Series Forecasting
 ## 1. Simple Methods
 ### a. Simple Moving Average
 ### b. Weighted Moving Average
